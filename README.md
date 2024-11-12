@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunaals11
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN STACK
+- 🌱 Working as MERN STACK Developer
 - 💞️ I’m looking to collaborate on WEB PROJECTS
 - 📫 How to reach me Ping me on kunaals11@gmail.com
 - 😄 Pronouns: ...
